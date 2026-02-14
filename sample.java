@@ -22,3 +22,4 @@ public class sample {
         sc.close();
     }
 }
+// sample
